@@ -3,7 +3,6 @@
 🎓 Digital Humanities student @ UniPisa  
 📍 Based in Pisa, Italy  
 
---
 
 ## 🔗 Social
 
