@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Valentina!
 
-🎓 Digital Humanities student @ UniPisa  
+🎓 Digital Humanities student @UniPisa  
 📍 Based in Pisa, Italy  
 
 
