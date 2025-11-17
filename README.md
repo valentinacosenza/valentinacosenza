@@ -3,7 +3,7 @@
 🎓 Digital Humanities student @ UniPisa  
 📍 Based in Pisa, Italy  
 
----
+
 
 ## 🔗 Social
 
@@ -13,7 +13,7 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@imvalentinacosenza?igshid=NTc4MTIwNjQ2YQ==)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/iamvalecosenza)
 
----
+
 
 ## 🛠️ Languages & Tools
 
