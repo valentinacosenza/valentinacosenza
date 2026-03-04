@@ -12,8 +12,6 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@imvalentinacosenza?igshid=NTc4MTIwNjQ2YQ==)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/iamvalecosenza)
 
-## 🛠️ Languages & Tools
-
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinacosenza&layout=compact)
