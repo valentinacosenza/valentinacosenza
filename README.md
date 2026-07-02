@@ -3,8 +3,6 @@
 🎓 Digital Humanities student at @UniPisa  
 📍 Based in Pisa, Italy  
 
---
-
 ### 🛠️ Tech Stack & Tools
  
 | Linguaggi & Markup | Frontend & Web | Tools & Deploy |
