@@ -3,7 +3,7 @@
 🎓 Digital Humanities student at @UniPisa  
 📍 Based in Pisa, Italy  
 
----
+--
 
 ### 🛠️ Tech Stack & Tools
  
@@ -13,11 +13,5 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-4CAF50?style=flat) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 | ![XML TEI](https://img.shields.io/badge/XML%20TEI-00618A?style=flat) ![XSLT](https://img.shields.io/badge/XSLT-EE6C4D?style=flat) | ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
  
----
- 
-### 📊 GitHub Stats
- 
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=valentinacosenza&show_icons=true&theme=default)
- 
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinacosenza&layout=compact)
+
  
